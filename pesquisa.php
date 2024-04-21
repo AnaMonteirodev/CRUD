@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/estilo.css">
 
-    <title>Pesuisar</title>
+    <title>Pesquisar</title>
   </head>
   <body>
 
